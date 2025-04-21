@@ -1,4 +1,4 @@
-<h1 align=center>Projetos criados através do curso Dev-Club</h1>
+<h1 align=center>Projetos criados</h1>
 <br><br>
 <h2>Wide Coverage Location</h2>
 <img src="https://github.com/CleristonMeloKeke/curso-devclub/blob/main/desafio-wide-coverage-location/img/wide-print.png?raw=true" />
